@@ -1,4 +1,4 @@
-# Andrew-NG-Solutions-Python-Coursera-
+# Coursera Machine Learning by Andrew NG solutions in Pyhton
 This repository includes answers to the Coursera Machine Learning course taught by Andrew NG.
 
 This taught is thought in Octave but these answers are in Python.
